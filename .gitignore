@@ -1,0 +1,10 @@
+/*.classpath
+/*.project
+/*.settings
+/*.roo
+/target
+/*.metadata
+.settings
+.project
+*.log
+/bin/
